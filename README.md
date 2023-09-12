@@ -20,7 +20,7 @@ Here are some of the projects I've worked on:
 
 - [Git-jenkins-SonarQube-Docker-Nginx](link-to-repo): Brief description of the project and its significance.
 - [Git-jenkins-SonarQube-Ansible-Docker-Haproxy](link-to-repo): Another project with a short description.
-- [Git-Jenkins_SonarQube-AwsEcr-Git-ArgoCd-AwsEKs): Highlight a third project, if applicable.
+- [Git-Jenkins_SonarQube-AwsEcr-Git-ArgoCd-AwsEKs](link-to-repo): Highlight a third project, if applicable.
 
 You can find more of my work on my [GitHub repositories](https://github.com/mohsinrubel).
 
