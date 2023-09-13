@@ -1,5 +1,5 @@
 
-# Hi there, I'm  @mohsinrubel 👋
+# Hi, I'm  @mohsinrubel 👋
 
 I'm a passionate DevOps Engineer with a focus on automating and streamlining development and operations processes. My goal is to help teams deliver high-quality software faster by implementing efficient CI/CD pipelines, infrastructure as code (IaC), and other DevOps best practices.
 
