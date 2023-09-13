@@ -44,7 +44,21 @@ Simplifies deployment and scaling of the application.
 
 Overall, this DevOps project automates the entire software development lifecycle, from code commits in Git to building and testing in Jenkins, ensuring code quality with SonarQube, containerizing the application with Docker, and finally deploying it behind Nginx for production use. The result is a streamlined and efficient development and deployment process that maintains code quality and security while ensuring consistency across different environments.
 
-- [Git-jenkins-SonarQube-Ansible-Docker-Haproxy](link-to-repo): Another project with a short description.
+- [Git-jenkins-SonarQube-Ansible-Docker-Haproxy](https://github.com/mohsinrubel/shop-ansible-pipeline): This DevOps project is designed to streamline and enhance the software development and deployment process. It leverages a combination of powerful tools and technologies:
+
+**Git:** Facilitates collaborative development and version control, enabling teams to work on code collaboratively.
+
+**Jenkins:** Automates the entire CI/CD pipeline, from code integration to deployment, ensuring rapid and reliable software delivery.
+
+**Ansible:** Orchestrates and automates infrastructure provisioning and configuration management, reducing manual tasks and ensuring consistency across environments.
+
+**SonarQube:** Focuses on code quality and security by conducting static code analysis and providing actionable insights to improve codebase health.
+
+**Docker:** Utilizes containerization to package applications and dependencies consistently, ensuring seamless deployment across various environments.
+
+HAProxy: Acts as a high-performance load balancer and reverse proxy, distributing incoming traffic to Docker containers for a resilient and scalable application architecture.
+
+This DevOps project enables efficient collaboration, automated infrastructure management, code quality assessment, containerized deployments, and reliable traffic routing. It empowers development teams to deliver high-quality software swiftly while maintaining infrastructure reliability and scalability.
 - [Git-Jenkins_SonarQube-AwsEcr-Git-ArgoCd-AwsEKs](link-to-repo): Highlight a third project, if applicable.
 
 You can find more of my work on my [GitHub repositories](https://github.com/mohsinrubel).
