@@ -59,7 +59,21 @@ Overall, this DevOps project automates the entire software development lifecycle
 HAProxy: Acts as a high-performance load balancer and reverse proxy, distributing incoming traffic to Docker containers for a resilient and scalable application architecture.
 
 This DevOps project enables efficient collaboration, automated infrastructure management, code quality assessment, containerized deployments, and reliable traffic routing. It empowers development teams to deliver high-quality software swiftly while maintaining infrastructure reliability and scalability.
-- [Git-Jenkins_SonarQube-AwsEcr-Git-ArgoCd-AwsEKs](link-to-repo): Highlight a third project, if applicable.
+- [Git-Jenkins_SonarQube-AwsEcr-Git-ArgoCd-AwsEKs](link-to-repo): This DevOps project combines a powerful set of tools and cloud services to streamline and enhance the software development and deployment process:
+
+**Git:** Enables collaborative development and version control, fostering team collaboration and efficient code management.
+
+**Jenkins:** Orchestrates continuous integration and delivery (CI/CD) pipelines, automating build, test, and deployment processes.
+
+**SonarQube:** Focuses on code quality and security, conducting static code analysis and offering actionable insights to improve codebase health.
+
+**AWS ECR (Elastic Container Registry):** Serves as a secure and scalable container image registry for storing Docker images, ensuring reliable and efficient container deployments.
+
+**Argo CD:** Manages Kubernetes resources and configurations using GitOps principles, ensuring consistency and reliability in container orchestration.
+
+**AWS EKS (Elastic Kubernetes Service):** Provides a managed Kubernetes environment for containerized applications, simplifying scaling and orchestration.
+
+This DevOps project leverages these technologies to automate development workflows, enhance code quality, and efficiently manage containerized applications in a Kubernetes environment on AWS. It fosters rapid and reliable software delivery while maintaining security, scalability, and infrastructure consistency.
 
 You can find more of my work on my [GitHub repositories](https://github.com/mohsinrubel).
 
