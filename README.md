@@ -81,8 +81,8 @@ You can find more of my work on my [GitHub repositories](https://github.com/mohs
 
 I'm always eager to expand my skill set. Currently, I'm learning:
 
-- [Terraform Module Base Architecture](link-to-resources): Why you're learning it and how it's relevant to your work.
-- [AWS Serverless](link-to-resources): Mention another technology or topic you're exploring.
+- [Terraform Module Base Architecture](https://github.com/mohsinrubel/terraform-module-template): Terraform modules serve as reusable building blocks in infrastructure as code (IaC) design. They encapsulate and abstract resources, configurations, and logic, enabling the creation of consistent and scalable infrastructure. Modules promote modularity, reusability, and maintainability by allowing the definition of custom resources with well-defined inputs and outputs. This modular approach simplifies complex infrastructure management, encourages best practices, and enhances collaboration among teams. By abstracting infrastructure components into modules, Terraform users can efficiently provision and manage cloud resources while reducing redundancy and errors in their IaC templates.
+- [AWS Serverless](link-to-resources): AWS Serverless allows developers to build and run applications without managing servers. Leveraging services like AWS Lambda, API Gateway, and others, it automatically scales based on demand, reducing infrastructure management overhead. Serverless architectures enable cost-effective, event-driven, and highly available solutions. Developers can focus on writing code and defining functions triggered by events, such as HTTP requests, database updates, or file uploads. AWS handles resource provisioning, scaling, and maintenance. This approach accelerates development, lowers operational costs, and simplifies deployment, making it ideal for building scalable and responsive applications, APIs, and microservices in the cloud.
 
 ## 📫 Let's Connect
 
