@@ -89,9 +89,9 @@ I'm always eager to expand my skill set. Currently, I'm learning:
 
 Feel free to connect with me on:
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Twitter: [@YourTwitterHandle](https://twitter.com/your-twitter)
-- Blog: [Link to Your Blog](https://your-blog-url.com)
+- LinkedIn: [ LinkedIn Profile](https://www.linkedin.com/in/)
+- Portfolio: [Portfolio](https://twitter.com/)
+- Blog: [Blog](https://m-blog-url.com)
 
 ## 💬 Let's Collaborate
 
