@@ -56,7 +56,7 @@ Overall, this DevOps project automates the entire software development lifecycle
 
 **Docker:** Utilizes containerization to package applications and dependencies consistently, ensuring seamless deployment across various environments.
 
-HAProxy: Acts as a high-performance load balancer and reverse proxy, distributing incoming traffic to Docker containers for a resilient and scalable application architecture.
+**HAProxy:** Acts as a high-performance load balancer and reverse proxy, distributing incoming traffic to Docker containers for a resilient and scalable application architecture.
 
 This DevOps project enables efficient collaboration, automated infrastructure management, code quality assessment, containerized deployments, and reliable traffic routing. It empowers development teams to deliver high-quality software swiftly while maintaining infrastructure reliability and scalability.
 - [Git-Jenkins_SonarQube-AwsEcr-Git-ArgoCd-AwsEKs](link-to-repo): This DevOps project combines a powerful set of tools and cloud services to streamline and enhance the software development and deployment process:
@@ -82,7 +82,8 @@ You can find more of my work on my [GitHub repositories](https://github.com/mohs
 I'm always eager to expand my skill set. Currently, I'm learning:
 
 - [Terraform Module Base Architecture](https://github.com/mohsinrubel/terraform-module-template): Terraform modules serve as reusable building blocks in infrastructure as code (IaC) design. They encapsulate and abstract resources, configurations, and logic, enabling the creation of consistent and scalable infrastructure. Modules promote modularity, reusability, and maintainability by allowing the definition of custom resources with well-defined inputs and outputs. This modular approach simplifies complex infrastructure management, encourages best practices, and enhances collaboration among teams. By abstracting infrastructure components into modules, Terraform users can efficiently provision and manage cloud resources while reducing redundancy and errors in their IaC templates.
-- [AWS Serverless](link-to-resources): AWS Serverless allows developers to build and run applications without managing servers. Leveraging services like AWS Lambda, API Gateway, and others, it automatically scales based on demand, reducing infrastructure management overhead. Serverless architectures enable cost-effective, event-driven, and highly available solutions. Developers can focus on writing code and defining functions triggered by events, such as HTTP requests, database updates, or file uploads. AWS handles resource provisioning, scaling, and maintenance. This approach accelerates development, lowers operational costs, and simplifies deployment, making it ideal for building scalable and responsive applications, APIs, and microservices in the cloud.
+- [Learning Cybersecurity](link-to-resources):  Currently i practice  on TryHackme(https://tryhackme.com/). Reading "The Web Application Hacker's Handbook" by Dafydd Stuttard and Marcus Pinto. Exploring ethical hacking techniques and tools, focusing on network security.
+
 
 ## 📫 Let's Connect
 
