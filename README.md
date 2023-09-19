@@ -1,7 +1,7 @@
 
 # Hi, I'm  Mohsin Rubel 👋
 
-I'm a passionate DevOps Engineer with a focus on automating and streamlining development and operations processes. My goal is to help teams deliver high-quality software faster by implementing efficient CI/CD pipelines, infrastructure as code (IaC), and other DevOps best practices.
+I'm an enthusiastic DevSecOps enthusiast, driven by the challenge of fortifying cloud-based systems while enhancing the development experience. My mission is to empower teams to expedite software delivery, all while ensuring top-notch security. I achieve this by orchestrating robust CI/CD pipelines, harnessing the power of Infrastructure as Code (IaC), and integrating cutting-edge DevSecOps strategies that safeguard cloud environments and elevate development to new heights.
 
 ## 🔧 Technologies & Tools
 
@@ -18,7 +18,27 @@ I'm a passionate DevOps Engineer with a focus on automating and streamlining dev
 
 Here are some of the projects I've worked on:
 
-- [Git-jenkins-SonarQube-Docker-Nginx](https://github.com/mohsinrubel/portfolio): A DevOps project that involves Git, Jenkins, SonarQube, Docker, and Nginx typically focuses on automating the software development and deployment pipeline while ensuring code quality and security. Here's a brief description of each component's role in the project:
+- [Git-jenkins-SonarQube-Docker-Nginx](https://github.com/mohsinrubel/portfolio):
+  Project Name : DevOps Automation and Infrastructure Enhancement
+  Project Description: Implemented a robust DevOps automation project to optimize the software development and deployment process. Key achievements and responsibilities included:
+
+Docker Environment Setup: Established a secure and efficient Docker environment on Linux, ensuring reliable containerization and orchestration of applications. Automated installation and updates via the official repository.
+
+Jenkins Integration: Orchestrated Jenkins within Docker containers for continuous integration and continuous deployment (CI/CD). Created a Docker Compose file for Jenkins configuration, enabling streamlined job execution.
+
+SonarQube Implementation: Deployed SonarQube within Docker containers to enhance code quality and security assessment. Configured SonarQube for seamless integration with Jenkins.
+
+Java 17 and Sonar Scanner: Installed and configured Java 17 and Sonar Scanner on the host machine to facilitate code analysis and maintain code quality.
+
+Jenkins Configuration: Managed Jenkins plugins, credentials, and SSH remote host configurations. Created and configured Jenkins jobs for code updates, SonarQube scans, and Docker container deployments.
+
+Pipeline Automation: Established automated pipelines to optimize software development workflows, improving efficiency and reducing manual interventions.
+
+Git WebHook Integration: Set up Git WebHooks to automate code integration and job triggering, enhancing the overall development process.
+
+This project showcased my expertise in DevOps, containerization, CI/CD, and infrastructure management, resulting in a more efficient and secure software development lifecycle.
+
+Here is the short description of technology stacks i used:
 
 **Git:** Git is a version control system that helps manage and track changes to your source code. In this project, Git serves as the central repository for your application's source code, allowing multiple developers to collaborate, contribute, and maintain version history.
 
@@ -42,7 +62,6 @@ Simplifies deployment and scaling of the application.
 
 **Nginx:** Nginx is a web server and reverse proxy server known for its performance and reliability. In this project, `` Nginx:`` Acts as a reverse proxy to route incoming HTTP requests to the appropriate Docker containers.Provides load balancing and security features.Serves as a front-end server for your web application.
 
-Overall, this DevOps project automates the entire software development lifecycle, from code commits in Git to building and testing in Jenkins, ensuring code quality with SonarQube, containerizing the application with Docker, and finally deploying it behind Nginx for production use. The result is a streamlined and efficient development and deployment process that maintains code quality and security while ensuring consistency across different environments.
 
 - [Git-jenkins-SonarQube-Ansible-Docker-Haproxy](https://github.com/mohsinrubel/shop-ansible-pipeline): This DevOps project is designed to streamline and enhance the software development and deployment process. It leverages a combination of powerful tools and technologies:
 
