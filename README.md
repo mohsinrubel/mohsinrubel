@@ -19,9 +19,11 @@ I'm an enthusiastic DevSecOps enthusiast, driven by the challenge of fortifying 
 Here are some of the projects I've worked on:
 
 - [Git-jenkins-SonarQube-Docker-Nginx](https://github.com/mohsinrubel/portfolio):
+  
   Project Name : DevOps Automation and Infrastructure Enhancement
   
-  Project Description: Implemented a robust DevOps automation project to optimize the software development and deployment process. Key achievements and responsibilities included:
+  Project Description: Implemented a robust DevOps automation project to optimize the software development and deployment process.
+  Key achievements and responsibilities included:
 
 Docker Environment Setup: Established a secure and efficient Docker environment on Linux, ensuring reliable containerization and orchestration of applications. Automated installation and updates via the official repository.
 
