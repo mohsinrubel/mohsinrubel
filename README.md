@@ -104,6 +104,22 @@ I'm always eager to expand my skill set. Currently, I'm learning:
 - [Terraform Module Base Architecture](https://github.com/mohsinrubel/terraform-module-template): Terraform modules serve as reusable building blocks in infrastructure as code (IaC) design. They encapsulate and abstract resources, configurations, and logic, enabling the creation of consistent and scalable infrastructure. Modules promote modularity, reusability, and maintainability by allowing the definition of custom resources with well-defined inputs and outputs. This modular approach simplifies complex infrastructure management, encourages best practices, and enhances collaboration among teams. By abstracting infrastructure components into modules, Terraform users can efficiently provision and manage cloud resources while reducing redundancy and errors in their IaC templates.
 - [Learning Cybersecurity](link-to-resources):  Currently i practice  on TryHackme(https://tryhackme.com/). Reading "The Web Application Hacker's Handbook" by Dafydd Stuttard and Marcus Pinto. Exploring ethical hacking techniques and tools, focusing on network security.
 
+## 📊 GitHub Stats:
+<p align="center">
+  <a href="#"><img alt="mohsinrubel Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mohsinrubel&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="430px"></a>
+  <a href="#"><img alt="mohsinrubel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinrubel&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="360px"></a><br>
+<!--   <b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i> -->
+</p>
+<details>
+  <summary><b> Profile Views 👁️</b></summary>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=mohsinrubel&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+</details>
+
+## 🏆 My Trophies <br > 
+  
+  ![trophy](https://github-profile-trophy.vercel.app/?username=mohsinrubel&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+  <br ><br >
 
 ## 📫 Let's Connect
 
