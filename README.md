@@ -126,6 +126,6 @@ Happy coding! 🚀
 
 
 
-<img src="https://raw.githubusercontent.com/shihab-uddin-shakil/shihab-uddin-shakil/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mohsinrubel/mohsinrubel/output/snake.svg" alt="Snake animation" />
 
 ###
