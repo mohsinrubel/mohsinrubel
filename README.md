@@ -129,7 +129,7 @@ Feel free to connect with me on:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsin-rubel-3829a923b/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mrubel.documents) 
  
 
-- 🎯 Portfolio website: [Portfolio](https://mohsinrubel.com)
+- 🎯 Portfolio website: [Portfolio](https://www.mohsinrubel.com/)
 - 💬 Ask me about anything, I am happy to help :smile:
 
 
