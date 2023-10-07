@@ -16,86 +16,18 @@ I'm an enthusiastic DevSecOps enthusiast, driven by the challenge of fortifying 
 
 ## 🚀 My Projects
 
-Here are some of the projects I've worked on:
+### Here are some of the projects I've worked on:
 
-- [Git-jenkins-SonarQube-Docker-Nginx](https://github.com/mohsinrubel/portfolio): DevOps Automation and Infrastructure Enhancement
-  
-  Project Description: Implemented a robust DevOps automation project to optimize the software development and deployment process.
-  Key achievements and responsibilities included:
-
-Docker Environment Setup: Established a secure and efficient Docker environment on Linux, ensuring reliable containerization and orchestration of applications. Automated installation and updates via the official repository.
-
-Jenkins Integration: Orchestrated Jenkins within Docker containers for continuous integration and continuous deployment (CI/CD). Created a Docker Compose file for Jenkins configuration, enabling streamlined job execution.
-
-SonarQube Implementation: Deployed SonarQube within Docker containers to enhance code quality and security assessment. Configured SonarQube for seamless integration with Jenkins.
-
-Java 17 and Sonar Scanner: Installed and configured Java 17 and Sonar Scanner on the host machine to facilitate code analysis and maintain code quality.
-
-Jenkins Configuration: Managed Jenkins plugins, credentials, and SSH remote host configurations. Created and configured Jenkins jobs for code updates, SonarQube scans, and Docker container deployments.
-
-Pipeline Automation: Established automated pipelines to optimize software development workflows, improving efficiency and reducing manual interventions.
-
-Git WebHook Integration: Set up Git WebHooks to automate code integration and job triggering, enhancing the overall development process.
-
-This project showcased my expertise in DevOps, containerization, CI/CD, and infrastructure management, resulting in a more efficient and secure software development lifecycle.
-
-Here is the short description of technology stacks i used:
-
-**Git:** Git is a version control system that helps manage and track changes to your source code. In this project, Git serves as the central repository for your application's source code, allowing multiple developers to collaborate, contribute, and maintain version history.
-
-**Jenkins:** Jenkins is an automation server that plays a crucial role in continuous integration (CI) and continuous deployment (CD) pipelines. It automates the building, testing, and deployment of your application. In this project, Jenkins is used to:
-
-Trigger automated builds whenever changes are pushed to the Git repository.
-Execute unit tests and other quality checks.
-Deploy the application to different environments (e.g., development, staging, production).
-
-**SonarQube:** SonarQube is a static code analysis tool that helps maintain code quality and identify code smells, bugs, and vulnerabilities. In this project, 
-`` SonarQube: ``
-Analyzes the source code and identifies issues.
-Provides reports and metrics on code quality.
-Ensures that code adheres to coding standards and best practices.
-
-**Docker:** Docker is a containerization platform that allows you to package your application and its dependencies into containers. In this project,
-`` Docker: ``
-Provides a consistent and isolated environment for running applications.
-Ensures that the application runs consistently across different environments (e.g., development, testing, production).
-Simplifies deployment and scaling of the application.
-
-**Nginx:** Nginx is a web server and reverse proxy server known for its performance and reliability. In this project, `` Nginx:`` Acts as a reverse proxy to route incoming HTTP requests to the appropriate Docker containers.Provides load balancing and security features.Serves as a front-end server for your web application.
+- [CI/CD Pipeline Setup with Jenkins, SonarQube, Docker, and Nginx](https://medium.com/@mrubel.documents/ci-cd-pipeline-setup-with-jenkins-sonarqube-docker-and-nginx-872dcbdaa451):
+  This Project  to manage a portfolio hosted on GitHub. It covers VM setup, Jenkins and SonarQube configuration, Jenkins job creation, code analysis, VM3 configuration, Nginx setup, SSL installation, and Docker setup.
 
 
-- [Git-jenkins-SonarQube-Ansible-Docker-Haproxy](https://github.com/mohsinrubel/shop-ansible-pipeline): This DevOps project is designed to streamline and enhance the software development and deployment process. It leverages a combination of powerful tools and technologies:
+- [Git-jenkins-SonarQube-Ansible-Docker-Haproxy](https://github.com/mohsinrubel/shop-ansible-pipeline):
+   This DevOps project is designed to streamline and enhance the software development and deployment process. It leverages a combination of powerful tools and technologies git, ansible, docker, haproxy, jenkins.
+- [Deploying Dockerized App on Kubernetes using ArgoCD and GitOps Methodology with GitHub Actions](https://medium.com/@mrubel.documents/deploying-dockerized-app-on-kubernetes-using-argocd-and-gitops-methodology-with-github-actions-5419e9b45cd0):
+  In this project, we’ve successfully utilized ArgoCD, GitOps methodology, and GitHub Actions to streamline the deployment of a Dockerized application on a Kubernetes cluster. This approach not only enhances the efficiency and reliability of your deployments but also ensures consistency across your development, staging, and production environments. By integrating these tools and methodologies, you’ll be better equipped to manage and scale your applications on Kubernetes in a more automated and controlled manner.
 
-**Git:** Facilitates collaborative development and version control, enabling teams to work on code collaboratively.
-
-**Jenkins:** Automates the entire CI/CD pipeline, from code integration to deployment, ensuring rapid and reliable software delivery.
-
-**Ansible:** Orchestrates and automates infrastructure provisioning and configuration management, reducing manual tasks and ensuring consistency across environments.
-
-**SonarQube:** Focuses on code quality and security by conducting static code analysis and providing actionable insights to improve codebase health.
-
-**Docker:** Utilizes containerization to package applications and dependencies consistently, ensuring seamless deployment across various environments.
-
-**HAProxy:** Acts as a high-performance load balancer and reverse proxy, distributing incoming traffic to Docker containers for a resilient and scalable application architecture.
-
-This DevOps project enables efficient collaboration, automated infrastructure management, code quality assessment, containerized deployments, and reliable traffic routing. It empowers development teams to deliver high-quality software swiftly while maintaining infrastructure reliability and scalability.
-- [Git-Jenkins_SonarQube-AwsEcr-Git-ArgoCd-AwsEKs](link-to-repo): This DevOps project combines a powerful set of tools and cloud services to streamline and enhance the software development and deployment process:
-
-**Git:** Enables collaborative development and version control, fostering team collaboration and efficient code management.
-
-**Jenkins:** Orchestrates continuous integration and delivery (CI/CD) pipelines, automating build, test, and deployment processes.
-
-**SonarQube:** Focuses on code quality and security, conducting static code analysis and offering actionable insights to improve codebase health.
-
-**AWS ECR (Elastic Container Registry):** Serves as a secure and scalable container image registry for storing Docker images, ensuring reliable and efficient container deployments.
-
-**Argo CD:** Manages Kubernetes resources and configurations using GitOps principles, ensuring consistency and reliability in container orchestration.
-
-**AWS EKS (Elastic Kubernetes Service):** Provides a managed Kubernetes environment for containerized applications, simplifying scaling and orchestration.
-
-This DevOps project leverages these technologies to automate development workflows, enhance code quality, and efficiently manage containerized applications in a Kubernetes environment on AWS. It fosters rapid and reliable software delivery while maintaining security, scalability, and infrastructure consistency.
-
-You can find more of my work on my [GitHub repositories](https://github.com/mohsinrubel).
+#### You can find more of my work on my [GitHub repositories](https://github.com/mohsinrubel).
 
 ## 🌱 I'm Currently Learning
 
