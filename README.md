@@ -5,14 +5,17 @@ I'm an enthusiastic DevSecOps enthusiast, driven by the challenge of fortifying 
 
 ## 🔧 Technologies & Tools
 
-- **Infrastructure as Code (IaC):** Terraform, AWS CloudFormation
-- **Continuous Integration/Continuous Deployment (CI/CD):** Jenkins, Bamboo, GitHub Actions, Gitlab
-- **Containerization & Orchestration:** Docker, Kubernetes, Docker Swarm
-- **Version Control:** Git, GitHub, GitLab
+- **Infrastructure as Code (IaC):** Terraform, AWS CloudFormation, ARM
+- **Continuous Integration/Continuous Deployment (CI/CD):** Jenkins, Bamboo, GitHub Actions, Gitlab, Azure DevOps
+- **Containerization & Orchestration:** Kubernetes, Docker, OpenShift, Rancher, Docker Swarm, AKS, Octopus Deploy
+- **Version Control:** Git, GitHub, GitLab, Bitbucket
 - **Configuration Management:** Ansible, Puppet, Chef
 - **Cloud Platforms:** Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure
-- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack
-- **Scripting & Automation:** Bash, Python
+- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack, Datadog
+- **Scripting & Automation:** Bash, Python, PowerShell
+- **Project Management Tools:** Jira, Zendesk, Azure Boards
+- **Code Scanning & Security Tool:** SonarQube
+
 
 ## 🚀 My Projects
 
