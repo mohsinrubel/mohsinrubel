@@ -104,7 +104,8 @@ I'm always eager to expand my skill set. Currently, I'm learning:
 - [Terraform Module Base Architecture](https://github.com/mohsinrubel/terraform-module-template): Terraform modules serve as reusable building blocks in infrastructure as code (IaC) design. They encapsulate and abstract resources, configurations, and logic, enabling the creation of consistent and scalable infrastructure. Modules promote modularity, reusability, and maintainability by allowing the definition of custom resources with well-defined inputs and outputs. This modular approach simplifies complex infrastructure management, encourages best practices, and enhances collaboration among teams. By abstracting infrastructure components into modules, Terraform users can efficiently provision and manage cloud resources while reducing redundancy and errors in their IaC templates.
 - [Learning Cybersecurity](link-to-resources):  Currently i practice  on TryHackme(https://tryhackme.com/). Reading "The Web Application Hacker's Handbook" by Dafydd Stuttard and Marcus Pinto. Exploring ethical hacking techniques and tools, focusing on network security.
 - [Blockchain Development and Web 3.0](): I'm currently diving into the exciting realm of Blockchain Development and Web 3.0. This includes understanding the foundational concepts of blockchain technology, **smart contracts, decentralized applications (dApps), nft,** and the potential of Web 3.0 to reshape the internet as we know it.
-## 🔭 I’m currently working on Health Payment System || Pay Medix as a Senior DevOps Engineer
+## 🔭 I’m currently working on
+Health Payment System || Pay Medix as a Senior DevOps Engineer
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=mohsinrubel&theme=vue&hide_border=true&include_all_commits=false&count_private=false)
