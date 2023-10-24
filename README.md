@@ -84,7 +84,6 @@ I'm open to collaboration on DevOps projects and discussions. If you have any qu
 Happy coding! 🚀
 
 
-
+<!--
 <img src="https://raw.githubusercontent.com/mohsinrubel/mohsinrubel/output/snake.svg" alt="Snake animation" />
-
-###
+-->
